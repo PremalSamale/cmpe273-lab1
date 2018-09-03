@@ -1,0 +1,10 @@
+C:\Users\Premal\AppData\Roaming\Python\Python37\Scripts>pipenv run python http_call.py
+Response1: Mon, 03 Sep 2018 02:05:07 GMT
+Response2: Mon, 03 Sep 2018 02:05:08 GMT
+Response3: Mon, 03 Sep 2018 02:05:09 GMT
+
+C:\Users\Premal\AppData\Roaming\Python\Python37\Scripts>pipenv run python http_async_call.py
+Response1: Mon, 03 Sep 2018 02:04:41 GMT
+Response2: Mon, 03 Sep 2018 02:04:41 GMT
+Response3: Mon, 03 Sep 2018 02:04:41 GMT
+
